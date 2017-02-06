@@ -1,0 +1,23 @@
+{
+  "name": "gulp-base64-replacement",
+  "version": "0.0.2",
+  "description": "gulpfile to replace the rederenced image resource with the base64",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wheelo/gulp-base64-replacement.git"
+  },
+  "keywords": [
+    "gulp",
+    "node"
+  ],
+  "author": "wheelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wheelo/gulp-base64-replacement/issues"
+  },
+  "homepage": "https://github.com/wheelo/gulp-base64-replacement#readme"
+}
